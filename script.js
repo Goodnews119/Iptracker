@@ -1,4 +1,3 @@
-```javascript
 ‎document.getElementById('ip-form').addEventListener('submit', function(event) {
 ‎    event.preventDefault();
 ‎
@@ -20,4 +19,4 @@
 ‎        });
 ‎});
 
-‎```
+
